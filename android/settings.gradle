@@ -1,0 +1,3 @@
+rootProject.name = 'testReactNativeCamera'
+
+include ':app'
