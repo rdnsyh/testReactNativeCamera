@@ -1,0 +1,2 @@
+# testReactNativeCamera
+test camera
